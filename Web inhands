@@ -1,0 +1,7 @@
+echo "# The-Lagoon-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Webinhands23/The-Lagoon-.git
+git push -u origin main
